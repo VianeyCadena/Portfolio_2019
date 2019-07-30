@@ -6,6 +6,8 @@
  * Made By MaterializeCSS.com
  */
 
+ 
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -60,3 +62,14 @@ footer.page-footer {
 .img-skill{
   padding: 10rem;
 }
+
+
+.thumb-div{
+  padding: 1rem;
+}
+
+.thumbnail-design {
+  padding: 0.5rem;
+}
+
+

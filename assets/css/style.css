@@ -74,3 +74,8 @@ footer.page-footer {
 }
 
 
+
+.codeCards {
+  display: inline-block;
+  margin: auto;
+}

@@ -1,3 +1,10 @@
+
+  $(".myName").hover(function(e){
+      $(this).toggleClass('animated shake', e.type === "mouseenter");
+  });
+
+
+
 (function($){
   $(function(){
 
@@ -17,3 +24,8 @@ $('.carousel.carousel-slider').carousel({
   fullWidth: true,
   indicators: true
 });
+
+$(document).ready(function(){
+  $('.collapsible').collapsible();
+});
+

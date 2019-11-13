@@ -119,3 +119,11 @@ footer.page-footer {
   text-align: left;
   color: dimgray;
 }
+
+#navBar-icons{
+  line-height: 59px;
+}
+
+.myName, .brand-logo{
+  font-family: 'Kaushan Script', cursive;
+}

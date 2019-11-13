@@ -127,3 +127,16 @@ footer.page-footer {
 .myName, .brand-logo, .white-text{
   font-family: 'Kaushan Script', cursive;
 }
+
+@media only screen and (max-width: 400px) {
+  .brand-logo {
+    font-size: 1.9rem !important;
+  }
+}
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 80vh;
+  width: 80vw;
+}
